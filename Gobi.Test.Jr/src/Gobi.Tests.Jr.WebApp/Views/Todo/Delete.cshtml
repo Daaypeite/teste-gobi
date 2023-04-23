@@ -1,0 +1,37 @@
+@model Gobi.Test.Jr.Domain.TodoItem
+@{
+    ViewData["Title"] = "Delete item";
+}
+
+<div class=" justify-content-md-center">
+
+    <h3 class="mt-5 mb-5 d-flex justify-content-between">
+        @ViewData["Title"]
+
+        <a asp-action="Index" class="btn btn-secondary">
+            Voltar
+        </a>
+
+    </h3>
+
+    <form asp-action="Delete" method="delete">
+
+        <input type="hidden" asp-for="Id" />
+
+        <div class="row">
+
+            <div class="mb-3">
+                <label asp-for="Description" class="form-label"></label>
+                <p>@Model.Description</p>
+            </div>
+
+            <div class="col-lg-12">
+                <button class="btn btn-danger">
+                    Confirmar exclusão
+                </button>
+            </div>
+        </div>
+
+
+    </form>
+</div>

@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Gobi.Test.Jr.Domain.TodoItem>
+@{
+	ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+
+	<div class="mt-5 mb-5">
+		<a asp-action="Add" class="btn btn-primary">
+			Add ToDo
+		</a>
+	</div>
+
+	<table class="table table-bordered">
+		<thead>
+			<tr>
+				<th class="text-center">Finalizada</th>
+				<th>Tarefa</th>
+				<th>Opções</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var item in Model)
+			{
+				<tr>
+					<td></td>
+					<td>@item.Description</td>
+					<td>
+						<a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-primary btn-sm me-2" title="Editar">Editar</a>
+						<a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm" title="Excluir">Excluir</a>
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+
+</div>

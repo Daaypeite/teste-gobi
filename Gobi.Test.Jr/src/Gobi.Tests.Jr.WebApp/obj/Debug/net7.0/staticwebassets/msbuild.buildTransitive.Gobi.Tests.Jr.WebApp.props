@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Gobi.Tests.Jr.WebApp.props" />
+</Project>

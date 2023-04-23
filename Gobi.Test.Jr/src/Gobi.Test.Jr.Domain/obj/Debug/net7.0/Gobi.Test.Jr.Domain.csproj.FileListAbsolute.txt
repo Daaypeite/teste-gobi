@@ -1,0 +1,72 @@
+C:\Users\Philippe\source\repos\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.deps.json
+C:\Users\Philippe\source\repos\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.dll
+C:\Users\Philippe\source\repos\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.pdb
+C:\Users\Philippe\source\repos\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.csproj.AssemblyReference.cache
+C:\Users\Philippe\source\repos\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\source\repos\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.AssemblyInfoInputs.cache
+C:\Users\Philippe\source\repos\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.AssemblyInfo.cs
+C:\Users\Philippe\source\repos\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\source\repos\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.dll
+C:\Users\Philippe\source\repos\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\refint\Gobi.Test.Jr.Domain.dll
+C:\Users\Philippe\source\repos\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.pdb
+C:\Users\Philippe\source\repos\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\ref\Gobi.Test.Jr.Domain.dll
+C:\Users\Philippe\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.deps.json
+C:\Users\Philippe\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.dll
+C:\Users\Philippe\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.pdb
+C:\Users\Philippe\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.csproj.AssemblyReference.cache
+C:\Users\Philippe\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.AssemblyInfoInputs.cache
+C:\Users\Philippe\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.AssemblyInfo.cs
+C:\Users\Philippe\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.dll
+C:\Users\Philippe\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\refint\Gobi.Test.Jr.Domain.dll
+C:\Users\Philippe\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.pdb
+C:\Users\Philippe\Desktop\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\ref\Gobi.Test.Jr.Domain.dll
+D:\Backup\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.deps.json
+D:\Backup\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.dll
+D:\Backup\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.pdb
+D:\Backup\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.csproj.AssemblyReference.cache
+D:\Backup\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.AssemblyInfoInputs.cache
+D:\Backup\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.AssemblyInfo.cs
+D:\Backup\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.csproj.CoreCompileInputs.cache
+D:\Backup\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.dll
+D:\Backup\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\refint\Gobi.Test.Jr.Domain.dll
+D:\Backup\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.pdb
+D:\Backup\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\ref\Gobi.Test.Jr.Domain.dll
+C:\Users\Philippe\Downloads\Backup\Philippe - Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.deps.json
+C:\Users\Philippe\Downloads\Backup\Philippe - Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.dll
+C:\Users\Philippe\Downloads\Backup\Philippe - Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.pdb
+C:\Users\Philippe\Downloads\Backup\Philippe - Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.csproj.AssemblyReference.cache
+C:\Users\Philippe\Downloads\Backup\Philippe - Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philippe\Downloads\Backup\Philippe - Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.AssemblyInfoInputs.cache
+C:\Users\Philippe\Downloads\Backup\Philippe - Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.AssemblyInfo.cs
+C:\Users\Philippe\Downloads\Backup\Philippe - Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Downloads\Backup\Philippe - Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.dll
+C:\Users\Philippe\Downloads\Backup\Philippe - Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\refint\Gobi.Test.Jr.Domain.dll
+C:\Users\Philippe\Downloads\Backup\Philippe - Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.pdb
+C:\Users\Philippe\Downloads\Backup\Philippe - Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\ref\Gobi.Test.Jr.Domain.dll
+E:\ws-projetos\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.deps.json
+E:\ws-projetos\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.dll
+E:\ws-projetos\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.pdb
+E:\ws-projetos\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.csproj.AssemblyReference.cache
+E:\ws-projetos\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ws-projetos\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.AssemblyInfoInputs.cache
+E:\ws-projetos\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.AssemblyInfo.cs
+E:\ws-projetos\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.csproj.CoreCompileInputs.cache
+E:\ws-projetos\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.dll
+E:\ws-projetos\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\refint\Gobi.Test.Jr.Domain.dll
+E:\ws-projetos\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.pdb
+E:\ws-projetos\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\ref\Gobi.Test.Jr.Domain.dll
+E:\ws-projetos\feito\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.deps.json
+E:\ws-projetos\feito\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.dll
+E:\ws-projetos\feito\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\bin\Debug\net7.0\Gobi.Test.Jr.Domain.pdb
+E:\ws-projetos\feito\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.csproj.AssemblyReference.cache
+E:\ws-projetos\feito\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ws-projetos\feito\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.AssemblyInfoInputs.cache
+E:\ws-projetos\feito\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.AssemblyInfo.cs
+E:\ws-projetos\feito\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.csproj.CoreCompileInputs.cache
+E:\ws-projetos\feito\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.dll
+E:\ws-projetos\feito\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\refint\Gobi.Test.Jr.Domain.dll
+E:\ws-projetos\feito\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\Gobi.Test.Jr.Domain.pdb
+E:\ws-projetos\feito\Gobi.Test.Jr\Gobi.Test.Jr\src\Gobi.Test.Jr.Domain\obj\Debug\net7.0\ref\Gobi.Test.Jr.Domain.dll
